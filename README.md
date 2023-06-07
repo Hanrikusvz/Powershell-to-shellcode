@@ -6,8 +6,8 @@ I got the idee of youtube when I saw Gemini Security bypassig defender with open
 Setup & Usage
 ===============
 
-1.Copy and paste the script to your linux enviroment.
-2.Save the script as anything you want.
-3.Make the script executable by running (chmod +x <filename>)
-4.Excute the script with ./<filename>
-5.Follow the onscreen prompts.
+1.Copy and paste the script to your linux enviroment. \n
+2.Save the script as anything you want.\n
+3.Make the script executable by running (chmod +x filename) \n
+4.Excute the script with ./filename\n
+5.Follow the onscreen prompts.\n

@@ -2,6 +2,8 @@ I created a bash script that uses msfvenom to converts cmd or powershell command
 
 I got the idee of youtube when I saw Gemini Security bypassig defender with open source shellcode launchers. My idea was to use my own custom reverse shells that was obfuscate or encoded with these launchers, ofcourse to make it happen I would nee to convert the entire powershell command to shellcode to be able to execute it and that is where this script was born.
 
+Thanks to Gemini Security for showcasing the shellcode launchers.
+
 
 Setup & Usage
 ===============
